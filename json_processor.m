@@ -1,3 +1,7 @@
+% Description: This script updates the tag file for the new airfoil data
+% being digitized.
+% Author: Ansh Atul Mishra
+%%-----------------------------------------------------------------------%%
 clear all; close all; clc;
 
 % Open file dialog for user to pick a JSON file
