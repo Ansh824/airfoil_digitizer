@@ -1,6 +1,7 @@
 %% Airfoil Data Digitizer
 % This code digitizes the airfoil data using image from the paper you want
-% to digitize the airfoil from
+% to digitize the airfoil from and creates a csv file with the digitized
+% data
 % Author: Ansh Atul Mishra
 %-------------------------------------------------------------------------%
 
